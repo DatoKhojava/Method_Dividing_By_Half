@@ -1,3 +1,3 @@
-# Method_Dividing_By_Half
+# Method Dividing By Half
 
 This is C++ project (open source) which is intended to solve math task (see in code)
